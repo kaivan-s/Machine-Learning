@@ -13,7 +13,9 @@ but our model predicted that he did not bought the car !!
 
 You can cross verify with the confusion matrix !!!!
 
-Remember The classes and libraries used !!! 
+Remember The classes and libraries used !!!
+
+When kernel is linear svm works same as Logistic Regression !!!
 
 """
 
