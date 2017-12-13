@@ -17,6 +17,10 @@ Remember The classes and libraries used !!!
 
 When kernel is linear svm works same as Logistic Regression !!!
 
+Refer the following link for information on different kernels :-
+
+http://mlkernels.readthedocs.io/en/latest/kernels.html
+
 """
 
 import numpy as np
