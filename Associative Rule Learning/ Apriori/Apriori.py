@@ -9,6 +9,7 @@
     Now our model helps us to find best combination of food items so accordingly the 
     manager can arrange the items in the shop and earn more !! 
     
+    Also please include the apyori.py file in your folder where your project is because we will be using that !!!
 
 """
 
